@@ -5,7 +5,7 @@ PacletObject[
     "Name" -> "JerryI/WLX",
     "Description" -> "Wolfram Language XML syntax extension (a superset of WL and XML)",
     "Creator" -> "Kirill Vasin",
-    "License" -> "GPL-3.0-only",
+    "License" -> "AGPL-3.0",
     "PublisherID" -> "JerryI",
     "Version" -> "2.0.9",
     "WolframVersion" -> "13+",
@@ -15,9 +15,7 @@ PacletObject[
         "Root" -> "Kernel",
         "Context" -> {
           {"JerryI`WLX`", "WLX.wl"},
-          {"JerryI`WLX`Importer`", "Importer.wl"},
-          {"JerryI`WLX`WLJS`", "WLJS.wl"},
-          {"JerryI`WLX`WebUI`", "WebUI.wl"}
+          {"JerryI`WLX`Importer`", "Importer.wl"}
         },
         "Symbols" -> {}
       },
