@@ -1,4 +1,4 @@
-BeginPackage["JerryI`WLX`", {"CodeParser`"}]
+BeginPackage["CoffeeLiqueur`WLXTemplate`", {"CodeParser`"}]
 
 ProcessString::usage = "ProcessString[str_String] processes str to a plain WL expressions"
 ToStringRiffle::usage = "ToString, but turns arrays into a string as well"

@@ -2,7 +2,7 @@
 
 PacletObject[
   <|
-    "Name" -> "JerryI/WLX",
+    "Name" -> "CoffeeLiqueur/WLXTemplate",
     "Description" -> "Wolfram Language XML syntax extension (a superset of WL and XML)",
     "Creator" -> "Kirill Vasin",
     "License" -> "AGPL-3.0",
@@ -14,8 +14,8 @@ PacletObject[
         "Kernel",
         "Root" -> "Kernel",
         "Context" -> {
-          {"JerryI`WLX`", "WLX.wl"},
-          {"JerryI`WLX`Importer`", "Importer.wl"}
+          {"CoffeeLiqueur`WLXTemplate`", "WLX.wl"},
+          {"CoffeeLiqueur`WLXTemplate`Importer`", "Importer.wl"}
         },
         "Symbols" -> {}
       },
@@ -29,6 +29,6 @@ PacletObject[
         }
       }
     },
-    "PrimaryContext" -> "JerryI`WLX`"
+    "PrimaryContext" -> "CoffeeLiqueur`WLXTemplate`"
   |>
 ]

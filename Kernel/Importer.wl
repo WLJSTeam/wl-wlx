@@ -1,4 +1,4 @@
-BeginPackage["JerryI`WLX`Importer`", {"JerryI`WLX`"}]
+BeginPackage["CoffeeLiqueur`WLXTemplate`Importer`", {"CoffeeLiqueur`WLXTemplate`"}]
 
 ImportComponent::usage = "ImportComponent[filename_String] imports a component"
 
@@ -137,7 +137,7 @@ SetAttributes[wcache, HoldFirst]
 
 cache = Identity[#1]&
 
-Print["Caching is enabled for 1 hour! Type JerryI`WLX`Importer`Private`CacheControl[False] to disable it"];
+Print["Caching is enabled for 1 hour! Type CoffeeLiqueur`WLXTemplate`Importer`Private`CacheControl[False] to disable it"];
 
 cache = wcache; cinterval = "Hour";
 
