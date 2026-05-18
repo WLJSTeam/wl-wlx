@@ -1,5 +1,7 @@
 # Wolfram Language XML
 
+⚠️ __This library now is a part of__ [WLJS Notebook](https://wljs.io)
+
 ![](logo.png)
 
 *A syntax extension for Wolfram Language that lets you write HTML markup inside a Wolfram Language Script similar to JSX. A successor of [JerryI/WSP](https://github.com/JerryI/wl-wsp).*
